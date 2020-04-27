@@ -1,1 +1,1 @@
-# blur_in_openCV
+# image blur in openCV
